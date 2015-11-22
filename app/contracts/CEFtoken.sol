@@ -1,4 +1,4 @@
-contract token {
+contract CEFtoken {
     mapping (address => uint) public coinBalanceOf;
     event CoinTransfer(address sender, address receiver, uint amount);
 
