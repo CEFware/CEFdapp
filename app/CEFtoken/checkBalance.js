@@ -1,0 +1,1 @@
+token.coinBalanceOf(eth.accounts[0]) + " tokens"
